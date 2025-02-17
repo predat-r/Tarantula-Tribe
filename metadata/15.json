@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #15",
+  "description": "The tyrannical warlord of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/15.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Tyrannical", "Dominating", "Power-hungry"] }
+  ],
+  "backstory": "A feared warlord whose very name commands both respect and terror, this imposing figure rules its territory with an iron fist. Its battle-scarred appearance tells tales of countless conquered territories and crushed rebellions. Those who dare challenge its authority quickly learn why its reign has remained unchallenged for so long."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #10",
+  "description": "The eccentric inventor of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/10.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Innovative", "Quirky", "Brilliant"] }
+  ],
+  "backstory": "With a workshop filled with bizarre contraptions and half-finished inventions, this peculiar tarantula is always tinkering with new ways to improve spider life. Though some call its ideas crazy, its revolutionary web-spinning machine has changed the way spiders build their homes forever."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #5",
+  "description": "The devoted healer of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/5.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Compassionate", "Professional", "Dedicated"] }
+  ],
+  "backstory": "Distinguished by their trusty stethoscope and caring demeanor, this purple-hued physician has dedicated their life to healing the tribe's ailments. Their gentle bedside manner and keen diagnostic skills have earned them the position of Chief Medical Officer in the Web General Hospital. When not making their rounds, they can be found researching innovative web-based treatments and mentoring the next generation of spider healers."
+}

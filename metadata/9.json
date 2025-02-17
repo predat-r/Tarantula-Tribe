@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #9",
+  "description": "The mystic sage of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/9.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Wise", "Mysterious", "Spiritual"] }
+  ],
+  "backstory": "Deep in the ancient webs, this enlightened tarantula meditates on the mysteries of the universe. Its wisdom is sought by many, and its prophecies, woven into intricate silk patterns, are said to hold the secrets of both past and future."
+}

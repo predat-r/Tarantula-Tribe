@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #16",
+  "description": "The disgruntled librarian of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/16.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Grumpy", "Meticulous", "Judgmental"] }
+  ],
+  "backstory": "Keeper of the ancient web archives, this perpetually frowning tarantula maintains strict silence in the library's dusty corridors. Behind those stern spectacles lies an encyclopedic knowledge of spider lore, though getting any information requires enduring their infamous disapproving stare. Students whisper that their shushing sound can be heard three caves away."
+}

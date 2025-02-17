@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #4",
+  "description": "The dedicated doctor of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/4.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Professional", "Caring", "Dedicated"] }
+  ],
+  "backstory": "As the chief medical officer of the Spider General Hospital, this compassionate tarantula has dedicated its life to healing others. With a trusty clipboard and white coat, it makes its daily rounds ensuring the well-being of all eight-legged patients, known for its gentle bedside manner and thorough diagnoses."
+}

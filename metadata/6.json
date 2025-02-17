@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #6",
+  "description": "The fearsome warrior of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/6.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Fierce", "Intimidating", "Powerful"] }
+  ],
+  "backstory": "With blood-red eyes and razor-sharp fangs, this formidable warrior strikes fear into the hearts of those who dare threaten the tribe. Despite its menacing appearance, it serves as the tribe's loyal protector, using its fierce demeanor to maintain peace and order in the spider realm."
+}

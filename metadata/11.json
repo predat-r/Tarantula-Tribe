@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #11",
+  "description": "The bloodthirsty berserker of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/11.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Bloodthirsty", "Savage", "Merciless"] }
+  ],
+  "backstory": "With crimson eyes blazing with unquenchable bloodlust, this fearsome warrior strikes terror into the hearts of all who cross its path. Its razor-sharp fangs, stained with the essence of countless victims, tell tales of brutal victories. In the dark corners of the web kingdom, mere whispers of its name send shivers through the strongest of spiders."
+}

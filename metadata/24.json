@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #24",
+  "description": "The stargazing prophet of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/24.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Prophetic", "Celestial", "Wise"] }
+  ],
+  "backstory": "With eyes that mirror the cosmos and fur that catches starlight, this mystical seer reads the future in the patterns of the night sky. Their prophecies, whispered in riddles and woven into celestial webs, guide the tribe through times of change. Some say they weren't born, but fell from the stars themselves."
+}

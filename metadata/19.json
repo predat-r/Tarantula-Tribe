@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #19",
+  "description": "The mystical seer of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/19.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Enigmatic", "Mystical", "Wise"] }
+  ],
+  "backstory": "Draped in royal purple hues, this ethereal tarantula possesses the gift of foresight. Their large, luminous eyes seem to peer not just at you, but through time itself. The tribe's elders whisper that when this seer's third eye glows in the darkness, ancient prophecies are about to unfold. Many seek their wisdom, but few can decipher their cryptic messages."
+}

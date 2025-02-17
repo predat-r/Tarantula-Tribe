@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #21",
+  "description": "The fluffy philosopher of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/21.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Philosophical", "Gentle", "Introspective"] }
+  ],
+  "backstory": "With fur as soft as moonlight and eyes that hold infinite wisdom, this contemplative soul spends their days pondering life's greatest mysteries. Their distinctive purple hue and thoughtful expression have earned them a reputation as the tribe's most profound thinker. Young spiderlings gather around to hear their gentle musings about existence and purpose."
+}

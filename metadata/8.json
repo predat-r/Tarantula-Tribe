@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #8",
+  "description": "The musical virtuoso of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/8.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Creative", "Passionate", "Artistic"] }
+  ],
+  "backstory": "Wearing its signature leather jacket and golden-rimmed glasses, this musical prodigy has mastered the art of web-string guitar. Its melodic tunes echo through the spider caves, bringing joy and inspiration to all eight-legged creatures who listen to its nightly concerts."
+}

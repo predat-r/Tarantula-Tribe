@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #3",
+  "description": "The brilliant mathematician of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/3.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Intellectual", "Analytical", "Distinguished"] }
+  ],
+  "backstory": "Known as the Einstein of arachnids, this distinguished professor spends countless hours solving complex mathematical equations. With a signature bow tie and thick-rimmed glasses, it's often found surrounded by mathematical formulas, teaching advanced calculus to young spiderlings at the Web University."
+}

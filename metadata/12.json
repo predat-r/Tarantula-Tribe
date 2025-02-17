@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #12",
+  "description": "The malevolent sorcerer of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/12.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Villainous", "Cunning", "Diabolical"] }
+  ],
+  "backstory": "Deep in the forbidden caves dwells this master of dark arts, weaving webs of malevolent magic and corrupting the natural order. Its eyes glow with an otherworldly power, and its lair is filled with forbidden artifacts and cursed treasures. Those who seek its power never return quite the same - if they return at all."
+}

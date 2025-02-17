@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #7",
+  "description": "The distinguished professor of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/7.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Scholarly", "Brilliant", "Distinguished"] }
+  ],
+  "backstory": "Known for his signature purple bow tie and round spectacles, this brilliant professor has dedicated his life to unraveling the mysteries of advanced mathematics. His office walls are covered with complex equations and theoretical proofs, and his students at the Web University marvel at his ability to make the most challenging concepts seem crystal clear. When not teaching, he can be found scribbling new mathematical theories in his web-bound notebook."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #17",
+  "description": "The wandering scholar of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/17.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Adventurous", "Eccentric", "Inquisitive"] }
+  ],
+  "backstory": "Distinguished by peculiar growths and a well-worn leather satchel, this curious explorer ventures into the darkest corners of the spider realm. Their unconventional research methods and strange collections raise eyebrows among traditional scholars, but none can deny the value of their bizarre discoveries. Each new bump on their head marks another fascinating expedition into the unknown."
+}

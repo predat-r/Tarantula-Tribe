@@ -1,0 +1,9 @@
+{
+  "name": "Tarantula #13",
+  "description": "The sinister mastermind of the Tarantula Tribe.",
+  "image": "ipfs://bafybeia26ygohk43wpfwuolm2qjtxg5ot2fmlwtstc3szfrjmqxtdxj2u4/13.jpeg",
+  "attributes": [
+    { "trait_type": "Personality", "value": ["Evil", "Manipulative", "Ruthless"] }
+  ],
+  "backstory": "Behind a facade of sophistication lurks the most dangerous mind in the spider realm. This mastermind pulls strings from the shadows, orchestrating elaborate schemes of betrayal and conquest. Its web of influence stretches far and wide, and even the mightiest warriors think twice before crossing this calculating puppet master."
+}
